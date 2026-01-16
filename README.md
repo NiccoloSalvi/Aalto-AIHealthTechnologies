@@ -48,6 +48,16 @@ The repository is organized into three main folders:
 
 ---
 
+Grades
+I achieved the following scores on the assignments and project:
+
+Assignment 1: 20/20
+Assignment 2: 19.5/20
+Assignment 3: 19/20
+Final Project: /20
+
+---
+
 ## 📝 Important Disclaimer
 
 All instructional comments and the logical structure of the notebooks provided in this repository were authored by **Prof. Aleksei Tiulpin**. The code implementation within the designated blocks is my own work submitted for the Fall 2025 assignment deadlines.
